@@ -1,4 +1,4 @@
-\# Rössler Attractor
+# Rössler Attractor
 
 
 
@@ -6,7 +6,7 @@ Simulation of a non-linear systems using Python.
 
 
 
-\## Run it
+## Run
 
 pip install -r requirements.txt
 
